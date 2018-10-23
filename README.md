@@ -1,6 +1,6 @@
 #LVX
 {
-  "symbol": "Token symbol",
+  "symbol": "LVX",
   "address": "0x056ac97cd9dee69660964278d6c689135e9780bc",
   "overview":{
         "en": "LVX",
