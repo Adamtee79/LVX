@@ -17,7 +17,7 @@
     "blog": "https://level01.io/blog/",
     "twitter": "https://twitter.com/level01io",
     "telegram": "http://www.t.me/level01ico",
-    "github": "https://github.com/Level01Technologies/token-profile.git",
+    "github": "https://github.com/Level01Technologies/LVX.git",
     "facebook": "https://www.facebook.com/level01platform",
     "reddit": "https://www.reddit.com/user/level01io/",
     "linkedin": "https://www.linkedin.com/company/level01io/",
