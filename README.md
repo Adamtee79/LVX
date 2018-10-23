@@ -4,8 +4,7 @@
   "address": "0x056ac97cd9dee69660964278d6c689135e9780bc",
   "overview":{
         "en": "LVX",
-        "zh": ""
-  },
+          },
   "email": "accounts@level01.io",
   "website": "https://level01.io/",
   "whitepaper": "https://level01.io/wp-content/uploads/2018/06/level01_whitepaper_final1-2.pdf",
