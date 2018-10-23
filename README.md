@@ -11,6 +11,9 @@
   "whitepaper": "https://level01.io/wp-content/uploads/2018/06/level01_whitepaper_final1-2.pdf",
   "state": "OPEN | NORMAL",
   "published_on": "2018-07-01",
+  "price":{
+         "LVX":"1 LVX",
+         "USD":"0.305 USD",
     },
   "links": {
     "blog": "https://level01.io/blog/",
